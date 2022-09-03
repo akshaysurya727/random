@@ -1,0 +1,12 @@
+,Unnamed: 0,URL_ID,URL,total_word_count,postive_word_count,negetive_word_count,sentense_count,personal_pronouns_count,syllable_count,complex_word_count,character_count,polarity_score,subjectivity_score,avg_words_per_Sent,percentage_of_complex_words,fog_index,syllable_per_word,avg_word_length
+0,110,147,https://insights.blackcoffer.com/the-future-of-investing/,924,41,13,69,17,2207,294,6054,0.518518509,0.03030303,13.39130435,31.81818182,18.08379447,2.388528139,6.551948052
+1,53,90,https://insights.blackcoffer.com/online-gaming-adolescent-online-gaming-effects-demotivated-depression-musculoskeletal-and-psychosomatic-symptoms/,876,28,67,60,8,2225,345,6212,-0.410526311,-0.044520548,14.6,39.38356164,21.59342466,2.539954338,7.091324201
+2,47,84,https://insights.blackcoffer.com/how-small-business-can-survive-the-coronavirus-crisis/,784,40,30,64,55,1796,258,4992,0.142857141,0.012755102,12.25,32.90816327,18.06326531,2.290816327,6.367346939
+3,85,122,https://insights.blackcoffer.com/impact-of-covid-19coronavirus-on-the-indian-economy-2/,931,32,66,89,36,2153,272,5978,-0.346938772,-0.036519871,10.46067416,29.21589689,15.87062842,2.312567132,6.421052632
+4,26,63,https://insights.blackcoffer.com/what-is-the-future-of-mobile-apps/,646,22,9,50,35,1446,197,3924,0.419354825,0.020123839,12.92,30.49535604,17.36614241,2.238390093,6.074303406
+5,95,132,https://insights.blackcoffer.com/marketing-drives-results-with-a-focus-on-problems/,719,25,20,61,34,1866,251,5024,0.111111109,0.006954103,11.78688525,34.90959666,18.67859276,2.59527121,6.987482615
+6,16,53,https://insights.blackcoffer.com/ai-healthcare-revolution-ml-technology-algorithm-google-analytics-industrialrevolution/,758,79,39,9,63,1772,287,5189,0.338983048,0.052770448,84.22222222,37.86279683,48.83400762,2.337730871,6.845646438
+7,111,148,https://insights.blackcoffer.com/big-data-analytics-in-healthcare/,662,26,44,66,14,1645,257,4457,-0.257142853,-0.027190332,10.03030303,38.82175227,19.54082212,2.48489426,6.732628399
+8,44,81,https://insights.blackcoffer.com/global-financial-crisis-2008-causes-effects-and-its-solution/,685,22,33,56,13,1416,165,4204,-0.199999996,-0.016058394,12.23214286,24.08759124,14.52789364,2.067153285,6.137226277
+9,87,124,https://insights.blackcoffer.com/impact-of-covid-19-coronavirus-on-the-indian-economy-3/,1143,46,72,75,14,2762,401,7696,-0.220338981,-0.022747157,15.24,35.08311461,20.12924584,2.416447944,6.733158355
+10,,,,,,,,,,,,,,,,,,
